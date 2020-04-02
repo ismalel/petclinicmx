@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Pet Clinic Mx</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_owners">Owners</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="specie">Specie</string>
+    <string name="dob">DD/MM/YYYY</string>
+    <string name="breed">Breed</string>
+    <string name="coat">Coat</string>
+    <string name="ownerName">Owner Name</string>
+    <string name="ownerAddress">Owner Address</string>
+    <string name="ownerPhone">Owner Phone</string>
+    <string name="upload_photo">Take Photo</string>
+    <string name="taskList">Task List</string>
+    <string name="animals">Animals</string>
+    <string name="calendar">Calendar</string>
+    <string name="docs">Documents</string>
+    <string name="others">Others</string>
+    <string name="logout">Log Out</string>
+    <string name="entry_date">Entry Date</string>
+    <string name="motive">Motive</string>
+    <string name="doctor">Veterinarian</string>
+    <string name="observations">Observations</string>
+    <string name="generatePdf">Generate PDF</string>
+    <string name="heartBeats">Heart Beats</string>
+    <string name="temperature">Temperature</string>
+    <string name="clinic_name">Vet Care Clinic</string>
+    <string name="clinic_mail">vetcareclinic2018@gmail.com</string>
+    <string name="discharge">Discharge</string>
+    <string name="addAnimal">Add Animal</string>
+    <string name="errorCamera">No camera on this device</string>
+    <string name="sendText">Send Text</string>
+    <string name="send">Send</string>
+    <string name="writeHere">Write here the message:</string>
+    <string name="message">Message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
